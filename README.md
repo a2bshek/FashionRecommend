@@ -1,3 +1,15 @@
+# IBM-Project-18280-1659682380
+This is a project from "NalaiyaThiran" by Ministry of Electrical and Electronical Engineering
+
+## Team ID: PNT2022TMID05569
+________________________________
+<b>TEAM:</b>
+<ul><li>
+  Abishek PS (L)</li><li>
+  Aditya Kushwaha (M)</li><li>
+  Arjun RU (M)</li><li>
+  Ashwin Balaji PL (M)</li></ul>
+
 # Fashion Recommendation
 
 A personalized Fashion Recommendation that recommends fashion related things. Neural network is used to process the images from Fashion Product Images Dataset and the Nearest neighbour backed recommender to generate the final recommendations.
