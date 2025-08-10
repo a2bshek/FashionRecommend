@@ -1,2 +1,6 @@
 # Personal and Docs
 gitExclude/
+
+# Unable to upload in git
+./image_features.pkl
+./fashion_small.zip
